@@ -9,10 +9,16 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 - 👯 Ищу сотрудничество в: фронтенд разработке
 
+## Образование
+
+- **Бакалавр**, Федеральный Университет Дубна, (2019 - 2023)
+- **Магистр**, Университет ИТМО, направление "Веб-технологии" (2023 - настоящее время)
+
 ## Связаться со мной
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/sweeser)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:shemelin-01@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sweeser)
 
 ## Мои проекты
 
@@ -41,7 +47,5 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
 ## Статистика GitHub
-
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=sweeser&show_icons=true&theme=radical)
 
 ![Наиболее используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=sweeser&layout=compact&theme=radical)
