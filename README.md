@@ -2,11 +2,15 @@
 
 ## О себе
 
-Меня зовут Святослав, я являюсь магистром второго курса университета ИТМО на анправлении "Веб-технологии".
+Меня зовут Святослав, я являюсь магистром второго курса университета ИТМО на направлении "Веб-технологии".
 
 - 🔭 В настоящее время я работаю над: [Глоссарий](https://github.com/sweeser/mind-map)
 - 🌱 В настоящее время я изучаю: **JavaScript**
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+- 🌱 Также изучаю: **TypeScript**, **React**, **Vue**
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
 - 👯 Ищу сотрудничество в: фронтенд разработке
 
 ## Образование
@@ -46,6 +50,11 @@
 - **JavaScript**
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
-## Статистика GitHub
+- **TypeScript**
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-![Наиболее используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=sweeser&layout=compact&theme=radical)
+- **React**
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+- **Vue.js**
+  ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
