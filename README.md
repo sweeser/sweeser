@@ -4,7 +4,7 @@
 
 Меня зовут Святослав, я являюсь магистром второго курса университета ИТМО на направлении "Веб-технологии".
 
-- 🔭 В настоящее время я работаю над: [Глоссарий](https://github.com/sweeser/mind-map)
+- 🔭 В настоящее время я работаю над: [INVE-studios](https://github.com/sweeser/INVE-studios)
 - 🌱 В настоящее время я изучаю: **JavaScript**
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 - 🌱 Также изучаю: **TypeScript**, **React**, **Vue**
@@ -25,6 +25,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sweeser)
 
 ## Мои проекты
+
+### 📦 [INVE-studios](https://github.com/sweeser/INVE-studios)
+Сайт для команды разработчиков из разных областей, которые стремятся к улучшению и развитию сообщества.
 
 ### 📦 [INVE project](https://github.com/sweeser/INVE-project)
 Сайт для команды разработчиков из разных областей, которые стремятся к улучшению и развитию сообщества.
@@ -61,3 +64,7 @@
 
 - **Vue.js**
   ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
+
+## Статистика GitHub
+
+![Наиболее используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=sweeser&layout=compact&theme=radical)
