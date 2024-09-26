@@ -63,4 +63,6 @@
 
 ## Статистика GitHub
 
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=sweeser&show_icons=true&theme=radical)
 ![Наиболее используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=sweeser&layout=compact&theme=radical)
+![Коммиты](https://github-readme-streak-stats.herokuapp.com/?user=sweeser&theme=radical)
