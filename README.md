@@ -20,7 +20,6 @@
 
 ## Связаться со мной
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/sweeser)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:shemelin-01@mail.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/sweeser)
 
